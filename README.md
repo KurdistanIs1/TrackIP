@@ -7,7 +7,7 @@
 git clone https://github.com/KurdistanIs1/TrackIP
 ```
 ```python
-cd TermuxSetting
+cd TrackIP
 ```
 ```python
 bash TrackIP
